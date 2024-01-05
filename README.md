@@ -1,4 +1,4 @@
-# Project-4_OSU
+# Project4_OSU
 
 ## Overview
 The purpose of this analysis is to create a model that will predict the median value of homes on a California block, given certain criteria about the block. This process was completed in a Jupyter Notebook file using Python. In addition, a dashboard was created for visualization of the data. This dashboard is held in a Tableau file.
